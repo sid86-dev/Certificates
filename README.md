@@ -41,3 +41,45 @@
 ## Mathematics for Machine Learning: Multivariate Calculus
 ### Imperial College London
 ##### [See credentials](https://www.coursera.org/account/accomplishments/certificate/9YENY56AE5XR)
+
+## 6.
+
+<img align="left" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGXW0yOhYBbCg/company-logo_200_200/0/1547069414882?e=1629331200&v=beta&t=8H0ai2EqrqL-nrkr9-t2l7HzR55-eGbfH2_E0uLyT2U" alt="alt text" width="50" eight="50">
+
+## Cloud Computing Foundations
+### Duke University
+##### [See credentials](https://www.coursera.org/account/accomplishments/certificate/588VM9QUP62M)
+
+## 7.
+
+<img align="left" src="https://media-exp1.licdn.com/dms/image/C560BAQE2yEMrkNmDVw/company-logo_200_200/0/1519856141304?e=1629331200&v=beta&t=aS7_D535H1aiQy7W3_S2E16-Vj5IddKpfWBlTL5VgAw" alt="alt text" width="50" eight="50">
+
+##  Introduction to Self-Driving Cars
+### University of Toronto
+##### [See credentials](https://www.coursera.org/account/accomplishments/certificate/645ATPBL8N9T)
+
+## 8.
+
+<img align="left" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGXW0yOhYBbCg/company-logo_200_200/0/1547069414882?e=1629331200&v=beta&t=8H0ai2EqrqL-nrkr9-t2l7HzR55-eGbfH2_E0uLyT2U" alt="alt text" width="50" eight="50">
+
+##  Introduction to Machine Learning 
+### Duke University
+##### [See credentials](https://www.coursera.org/account/accomplishments/certificate/U2GRY4NZGZNR)
+
+## 9.
+
+<img align="left" src="https://media-exp1.licdn.com/dms/image/C560BAQHQYa-3EY_aaQ/company-logo_200_200/0/1565645519512?e=1629331200&v=beta&t=WeJRNQ2yG7OWXeJfSTSPamS5gQjTB1vLuQDiIjXbSNU" alt="alt text" width="50" eight="50">
+
+##  Machine Learning With Big Data
+### University of California, San Diego
+##### [See credentials](https://www.coursera.org/account/accomplishments/certificate/MGPDTXNC6ENY)
+
+## 10.
+
+<img align="left" src="https://media-exp1.licdn.com/dms/image/C510BAQEihl-VtlKwcQ/company-logo_200_200/0/1557311008683?e=1629331200&v=beta&t=dAG_ruJxIdp7D2_XvUIjg1HfZux2eo-ZIjnOK7-iQkk" alt="alt text" width="50" eight="50">
+
+##  Introduction to Programming Using Python
+### GUVI Geek Networks
+##### [See credentials](https://www.guvi.in/verify-certificate?id=9Fz207fJ64m7201n1M)
+
+
