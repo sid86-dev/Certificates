@@ -4,7 +4,7 @@
 
 ## 1.
 
-<img align="left" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFGfERBPGurCg/company-logo_200_200/0/1519856309184?e=1629331200&v=beta&t=J9lCVdrsT6YwUt0vaDsfkKPAdxv3hGE1O0TpUydQDgQ" alt="alt text" width="50" eight="50">
+<img align="left" src="https://www.coursera.org/account/accomplishments/certificate/DT8KRQXP9Z6S" alt="alt text" width="50" eight="50">
 
 ## Programming for Everybody (Getting Started with Python)
 ### University of Michigan
