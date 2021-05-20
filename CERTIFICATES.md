@@ -24,8 +24,7 @@
 
 ## Foundations: Data, Data, Everywhere
 ### Google
-##### [See credentials](
-https://www.coursera.org/account/accomplishments/certificate/4J5NMAZUK9UB)
+##### [See credentials](https://www.coursera.org/account/accomplishments/certificate/4J5NMAZUK9UB)
 
 ## 4.
 
