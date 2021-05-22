@@ -140,3 +140,30 @@
 ## Java Programming: Arrays, Lists, and Structured Data
 ### Duke University
 ##### [See credentials](https://www.coursera.org/account/accomplishments/certificate/9QEALLZKL922)
+
+## 18.
+
+<img align="left" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFgRYqaa_6VCA/company-logo_200_200/0/1614621724734?e=1629331200&v=beta&t=zQbI_ScBR39GAUO-l2OnzwcRmo5LbQihJgU0UZmBJPc" alt="alt text" width="50" eight="50">
+<img align="right" src="https://images.credly.com/size/680x680/images/114ee3e0-902b-45df-b9d0-2f72a16386a8/IT_Fund_for_Cyber_Specialist.png" alt="alt text" width="130" eight="140">
+
+## Network Security & Database Vulnerabilities
+### IBM
+##### [See credentials](https://www.coursera.org/account/accomplishments/certificate/82NTE55GZAAW)
+
+## 19.
+
+<img align="left" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFgRYqaa_6VCA/company-logo_200_200/0/1614621724734?e=1629331200&v=beta&t=zQbI_ScBR39GAUO-l2OnzwcRmo5LbQihJgU0UZmBJPc" alt="alt text" width="50" eight="50">
+<img align="right" src="https://images.credly.com/size/680x680/images/114ee3e0-902b-45df-b9d0-2f72a16386a8/IT_Fund_for_Cyber_Specialist.png" alt="alt text" width="130" eight="140">
+
+## Cybersecurity Compliance Framework & System Administration
+### IBM
+##### [See credentials](https://www.coursera.org/account/accomplishments/certificate/HFNYY5YAMCD9)
+
+## 20.
+
+<img align="left" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFgRYqaa_6VCA/company-logo_200_200/0/1614621724734?e=1629331200&v=beta&t=zQbI_ScBR39GAUO-l2OnzwcRmo5LbQihJgU0UZmBJPc" alt="alt text" width="50" eight="50">
+<img align="right" src="https://images.credly.com/size/680x680/images/114ee3e0-902b-45df-b9d0-2f72a16386a8/IT_Fund_for_Cyber_Specialist.png" alt="alt text" width="130" eight="140">
+
+## Cybersecurity Roles, Processes & Operating System Security
+### IBM
+##### [See credentials](https://www.coursera.org/account/accomplishments/certificate/82E7ZFFLBFAT)
