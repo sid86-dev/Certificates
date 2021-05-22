@@ -125,4 +125,18 @@
 ### Google
 ##### [See credentials](https://www.coursera.org/account/accomplishments/certificate/TM5PYMFBRLD3)
 
+## 16.
 
+<img align="left" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGXW0yOhYBbCg/company-logo_200_200/0/1547069414882?e=1629331200&v=beta&t=8H0ai2EqrqL-nrkr9-t2l7HzR55-eGbfH2_E0uLyT2U" alt="alt text" width="50" eight="50">
+
+## Java Programming: Solving Problems with Software
+### Duke University
+##### [See credentials](https://www.coursera.org/account/accomplishments/certificate/4Q4ZUMWMRDKH)
+
+## 17.
+
+<img align="left" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGXW0yOhYBbCg/company-logo_200_200/0/1547069414882?e=1629331200&v=beta&t=8H0ai2EqrqL-nrkr9-t2l7HzR55-eGbfH2_E0uLyT2U" alt="alt text" width="50" eight="50">
+
+## Java Programming: Arrays, Lists, and Structured Data
+### Duke University
+##### [See credentials](https://www.coursera.org/account/accomplishments/certificate/9QEALLZKL922)
