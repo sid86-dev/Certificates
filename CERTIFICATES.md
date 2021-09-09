@@ -47,7 +47,6 @@
 
 ## 7.
 
-<img align="left" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFgRYqaa_6VCA/company-logo_200_200/0/1614621724734?e=1629331200&v=beta&t=zQbI_ScBR39GAUO-l2OnzwcRmo5LbQihJgU0UZmBJPc" alt="alt text" width="50" eight="50">
 <img align="right" src="https://images.credly.com/size/680x680/images/114ee3e0-902b-45df-b9d0-2f72a16386a8/IT_Fund_for_Cyber_Specialist.png" alt="alt text" width="130" eight="140">
 
 ## IT Fundamentals for Cybersecurity
